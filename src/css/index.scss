@@ -1,0 +1,22 @@
+@font-face {
+  font-family: Monts;
+  src: url("../assets/fonts/Montserrat.ttf");
+}
+
+@font-face {
+  font-family: PT;
+  src: url("../assets/fonts/PTSans.ttf");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100vh;
+  font-family: "PT", sans-serif;
+}
